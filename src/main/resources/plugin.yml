@@ -1,0 +1,6 @@
+name: Crouchy
+version: '${project.version}'
+main: docs.noobcore.com.crouchy.Crouchy
+api-version: 1.19
+authors: [ JoshJustGames ]
+description: Simple plugin to gain invisiblity when crouching in tall grass
